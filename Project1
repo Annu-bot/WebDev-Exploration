@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Form</title>
+</head>
+<body>
+   <form >
+    <fieldset>
+        <legend>form</legend>
+        <h1>Event Registration</h1>
+        <label for="Name">Name:</label>
+        <br>
+        <input type="text" id="Name">
+        <br>
+        <label for="Email">Email:</label>
+        <br>
+        <input type="email" id="Email">
+        <br>
+        <label for="Phone">Phone:</label>
+        <br>
+        <input type="phone" id="Phone">
+        <br>
+        <label for="Occupation1">Occupation:</label>
+        <select name="Occupation" id="Occupation1">
+            <option value="Other">Other</option >
+            <option value="Doctor">Doctor</option>
+            <option value="Engineering">Engineering</option>
+            <option value="Govt. Employee">Employee</option>
+        </select>
+    
+        <br>
+        <label for="radio">Topics of Interest:</label>
+        <br>
+        <input type="checkbox" id="radio">
+        <br>
+        <label for="radio">HTML</label>
+        <br>
+        <input type="checkbox" id="radio" >
+        <br>
+        <label for="radio">CSS</label>   <!--if value of name is same then  in case of radio different value can be selected-->
+        
+        <br>
+        <input type="checkbox" id="radio" >
+        <br>
+        <label for="radio">JavaScript</label>
+        <br>
+        <label for="textarea1">Comments:</label>
+        <br>
+        <textarea name="textarea1" id="textarea1">Enter Here</textarea>
+        <button>Register</button>
+    
+    
+    
+       </fieldset>
+   </form>
+</body>
+</html>
