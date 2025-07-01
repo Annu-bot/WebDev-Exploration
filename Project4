@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Catalog</title>
+</head>
+<body>
+    <h1>Product Catalog</h1>
+
+    <nav>
+        <ul>
+            <li><a href="#electronics">Electronics</a></li>
+            <li><a href="#clothing">Clothing</a></li>
+            <li><a href="#home">Home</a></li>
+        </ul>
+    </nav>
+
+    <!-- Electronics Section -->
+    <section id="electronics">
+        <h2>Electronics</h2>
+
+        <article>
+            <h3>Laptop</h3>
+            <img src="https://media.product.which.co.uk/prod/images/original/22a475e555d7-best-laptop-deals.jpg" alt="Laptop" width="200" height="200">
+            <p><strong>Description:</strong> High-performance laptop with the latest processor and ample storage.</p>
+            <p><strong>Price:</strong> $999.99</p>
+            <p><strong>Availability:</strong> In stock</p>
+            <ul>
+                <li><strong>Brand:</strong> XYZ Electronics</li>
+                <li><strong>Screen Size:</strong> 15.6 inches</li>
+                <li><strong>RAM:</strong> 8GB</li>
+                <li><strong>Storage:</strong> 512GB SSD</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>Smartphone</h3>
+            <img src="https://opsg-img-cdn-gl.heytapimg.com/epb/202406/26/TiM1Gzwu2tfEAyVT.png" alt="Smartphone" width="200" height="200">
+            <p><strong>Description:</strong> Feature-rich smartphone with a high-resolution display and advanced camera.</p>
+            <p><strong>Price:</strong> $699.99</p>
+            <p><strong>Availability:</strong> Out of stock</p>
+            <ul>
+                <li><strong>Brand:</strong> ABC Mobile</li>
+                <li><strong>Screen Size:</strong> 6.5 inches</li>
+                <li><strong>Camera:</strong> 48MP + 12MP</li>
+                <li><strong>Storage:</strong> 128GB</li>
+            </ul>
+        </article>
+    </section>
+
+    <!-- Clothing Section -->
+    <section id="clothing">
+        <h2>Clothing</h2>
+
+        <article>
+            <h3>T-shirt</h3>
+            <img src="https://chriscross.in/cdn/shop/files/ChrisCrossPlainNavyBlueT-Shirt.jpg?v=1695720154&width=2048" alt="T-shirt" width="200" height="200">
+            <p><strong>Description:</strong> Casual and comfortable t-shirt made from premium cotton.</p>
+            <p><strong>Price:</strong> $19.99</p>
+            <p><strong>Availability:</strong> In stock</p>
+            <ul>
+                <li><strong>Brand:</strong> Fashion Apparel</li>
+                <li><strong>Color:</strong> Black</li>
+                <li><strong>Size:</strong> S, M, L</li>
+                <li><strong>Material:</strong> 100% Cotton</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>Jeans</h3>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplu02i9TFRV1od3CYgV1r9n2J8bfE-rttVw&s" alt="Jeans" width="200" height="200">
+            <p><strong>Description:</strong> Classic jeans with a slim fit and stylish design.</p>
+            <p><strong>Price:</strong> $49.99</p>
+            <p><strong>Availability:</strong> In stock</p>
+            <ul>
+                <li><strong>Brand:</strong> Fashion Apparel</li>
+                <li><strong>Color:</strong> Black</li>
+                <li><strong>Size:</strong> S, M, L</li>
+                <li><strong>Material:</strong> 100% Cotton</li>
+            </ul>
+        </article>
+    </section>
+
+    <!-- Home Section -->
+    <section id="home">
+        <h2>Home</h2>
+
+        <article>
+            <h3>Table Lamp</h3>
+            <img src="https://assets.ajio.com/medias/sys_master/root/20230314/A2ei/640f8f8af997dde6f4f6e166/-473Wx593H-465909525-white-MODEL.jpg" alt="Table Lamp" width="200" height="200">
+            <p><strong>Description:</strong> Modern and stylish table lamp to enhance your home decor.</p>
+            <p><strong>Price:</strong> $39.99</p>
+            <p><strong>Availability:</strong> In stock</p>
+            <ul>
+                <li><strong>Brand:</strong> Home Essential</li>
+                <li><strong>Color:</strong> White</li>
+                <li><strong>Dimension:</strong> 12 inches (height)</li>
+                <li><strong>Material:</strong> Ceramic, Metal</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>Throw Pillow</h3>
+            <img src="https://assets.ajio.com/medias/sys_master/root/20230314/A2ei/640f8f8af997dde6f4f6e166/-473Wx593H-465909525-white-MODEL.jpg" alt="Throw Pillow" width="200" height="200">
+            <p><strong>Description:</strong> Soft and comfortable throw pillow for your living room or bedroom.</p>
+            <p><strong>Price:</strong> $24.99</p>
+            <p><strong>Availability:</strong> In stock</p>
+            <ul>
+                <li><strong>Brand:</strong> Cozy Home</li>
+                <li><strong>Color:</strong> Gray</li>
+                <li><strong>Dimension:</strong> 18 x 18 inches</li>
+                <li><strong>Material:</strong> Cotton, Polyester</li>
+            </ul>
+        </article>
+    </section>
+</body>
+</html>
