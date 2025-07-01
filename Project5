@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       
+        .logo {
+      display: block;
+      float: left;  /* to place the image in left or right */
+      margin: 0 auto;
+      width: 512px;
+      height: auto;
+    }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome To Codehelp</h1>
+    </header>
+    <table>
+        <tr>
+            
+            <td><img src="https://www.codehelp.in/_next/image?url=https%3A%2F%2Fcdn.codehelp.in%2Fassets%2FCommon%2FWhitelogoGIF.gif&w=640&q=75"  loading="lazy"  class="logo" >
+            </td>
+            <td>
+                <ul>
+                    <li><a href="#Roadmap Videos">Roadmap Videos</a></li>
+                    <li><a href="#Operating System Videos">Operating System Videos</a></li>
+                    <li><a href="#DBMS Videos">DBMS Videos</a></li>
+                    <li><a href="#DSA Videos">DSA Videos</a></li>
+                    <li><a href="#Web Develpoment Videos">Web Develpoment Videos</a></li>
+                </ul>
+            </td>
+         </tr>
+    </table>
+    <h2>About Codehelp</h2>
+    <p>
+        CodeHelp is an online platform designed to assist learners and developers of all skill levels in enhancing their programming knowledge and skills.
+         The website offers a variety of resources, including tutorials, coding challenges, and community forums where users can ask questions and share insights. With a focus on practical coding exercises,
+         CodeHelp encourages hands-on learning, allowing users to practice in real-time and receive immediate feedback.
+         The user-friendly interface makes it easy to navigate through different programming languages and topics, catering to both beginners and advanced programmers. Additionally, the active community fosters collaboration and support, 
+         making CodeHelp a valuable resource for anyone looking to improve their coding abilities and stay updated with the latest trends in technology.
+    </p>
+
+    <table>
+        <tr>
+            <td><b>YOU TUBE</b></td>
+            <td>
+                <ul>
+                    <li><a href="https://www.youtube.com/@CodeHelp">CODEHELP</a></li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+    <div>      
+        <h2 id="Roadmap Videos">Roadmap Videos</h2> 
+        <table>
+            <tr>
+                <td>
+                    <iframe width="460" height="300" src="https://www.youtube.com/embed/9kQ1JUDleWg?si=n4WD7gy0-m85JU2q/autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+                </td>
+                <td>
+                    <iframe width="460" height="300" src="https://www.youtube.com/embed/mlxoB3wI9eY?si=2Gn_PoX3RVUGvV2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </td>
+                <td>
+                    <iframe width="460" height="300" src="https://www.youtube.com/embed/GLk7-imcjiI?si=bi39zWgyAR1W2jMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </td>
+            </tr>
+        </table>
+
+    </div>
+    <div>      
+        <h2 id="Operating System Videos">Operating System Videos</h2> 
+        <table>
+            <tr>
+                <td><iframe width="460" height="300" src="https://www.youtube.com/embed/3obEP8eLsCw?si=7UihedRIWULHw5G7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+                <td><iframe width="460" height="300" src="https://www.youtube.com/embed/_TpOHMCODXo?si=9PJvDRMpp8VttMX7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+                <td><iframe width="460" height="300" src="https://www.youtube.com/embed/9xS77QBL8W0?si=eckE4KnTh1VRa_Eg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+            </tr>
+        </table>
+    </div>
+    <div>      
+        <h2 id="DBMS Videos">DBMS Videos</h2> 
+        <table>
+            <tr>
+                <td><iframe width="460" height="300" src="https://www.youtube.com/embed/dl00fOOYLOM?si=3eHHBRm_2ib7rrRP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+                <td><iframe width="460" height="300" src="https://www.youtube.com/embed/TYo_CUnIWP8?si=VHNeCIj9NJ-GLoOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+                <td><iframe width="460" height="300" src="https://www.youtube.com/embed/eYpXCdvKwEQ?si=s2ZDC0IrxMSScny9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+            </tr>
+        </table>
+    </div>
+    <div>      
+        <h2 id="DSA Videos">DSA Videos</h2> 
+        <table>
+            <tr>
+                <td><iframe width="460" height="300" src="https://www.youtube.com/embed/WQoB2z67hvY?si=v8zGnpKBLsPg-aPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+                <td><iframe width="460" height="300" src="https://www.youtube.com/embed/9kQ1JUDleWg?si=8PKjfAbO8XsfNOOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+                <td><iframe width="460" height="300" src="https://www.youtube.com/embed/UntSI7G5h20?si=k9bFLs1hxaBc8CQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+            </tr>
+        </table>
+    </div>
+    <div>      
+        <h2 id="Web Develpoment Videos">Web Develpoment Videos</h2> 
+        <table>
+            <tr>
+                <td><iframe width="460" height="300" src="https://www.youtube.com/embed/fn9oKI9-TEs?si=xCty5cX67qP3I9p3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+                <td><iframe width="460" height="300" src="https://www.youtube.com/embed/uNcMKFkAKuw?si=u82Znnql-2wwQSGx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+                <td><iframe width="460" height="300" src="https://www.youtube.com/embed/dSJM4Gyh8jE?si=8z64JXFCa2l9DzA2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+            </tr>
+        </table>
+    </div>
+
+
+
+</body>
+   <footer>
+    <p> &#169; 2024 Product catalog. All rights reserved.</p>      <!--   &#169; for the copyright symbol.(extra code description)  -->
+    <p><a href="privacy.html">Privacy Policy</a> | <a href="contact.html">Contact Us</a></p>
+   </footer>
+</html>
